@@ -1,0 +1,2 @@
+Substituir o símbolo SVG temporário do componente BrandMark pelo logotipo oficial Astro Tech (SVG/PNG).
+Não existe arquivo de logo isolado entre os uploads.
